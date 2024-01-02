@@ -1,6 +1,16 @@
 # Minecraft: Subtitle Pack
 This Minecraft downloadable texture pack allows you to have "subtitles" to your Minecraft logo or custom headings that replace "Minecraft" with something else. Personalize your Minecraft experience with this DLC!
 
+# Description:
+### Update Log:
+Funky Update (1/3/2024):
+This update brings in a range of new logos to the game, and also improves the existing ones by giving them a fresh coat of polish and recreation. These changes have been made with the aim of providing you and other players with a more immersive and enjoyable gaming experience! Additionally, this pack now allows for the modification of headings, giving players greater control over the look and feel of their game. Get funky!
+
+Update List:
+Repolished existing logos
+5 new logos
+Ability to change the heading
+
 ## Unsure about the different selections?
 You can select from 5 different subtitle packs, each offering a unique style! The first option is the "New Default" pack, which features logos in the post-1.17 style. The second option is the "Default" pack, which includes subtitles in the pre-1.18 style. The third option is the "Old" pack, which features logos in the alpha/beta style (still in beta). The fourth option is the "Parody Logos" pack, and the last option is the "Custom Headings" pack. Choose the subtitle pack that best suits your preferences!
 
