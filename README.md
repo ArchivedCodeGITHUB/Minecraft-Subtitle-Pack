@@ -7,6 +7,12 @@ This Minecraft downloadable texture pack allows you to have "subtitles" to your 
 This Minecraft downloadable texture pack allows you to have "subtitles" to your Minecraft logo or custom headings that replace "Minecraft" with something else. Personalize your Minecraft experience with this DLC!
 
 ### Preview:
+<details>
+  <summary>The title of the image group</summary>
+  <img src="image-url" alt="image-description"/>
+  <img src="image-url" alt="image-description"/>
+  <img src="image-url" alt="image-description"/>
+</details>
  
 ### Reviews, Suggestions, & Bug Reports 
 You can rate your experience with us from 1 to 5 stars. Have any suggestions? Feel free to share them with us here. If you have a specific issue with the pack, post them below in the comments section (it is required to have an account to comment on MCPEDL).
