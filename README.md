@@ -1,3 +1,5 @@
+![subtitlepackthumbnail](https://github.com/ArchivedCodeGITHUB/Minecraft-Subtitle-Pack/assets/152086313/da54663c-37a2-4275-b29f-ed314e2f0c2c)
+
 # Minecraft: Subtitle Pack
 This Minecraft downloadable texture pack allows you to have "subtitles" to your Minecraft logo or custom headings that replace "Minecraft" with something else. Personalize your Minecraft experience with this DLC!
 
