@@ -8,7 +8,7 @@ This Minecraft downloadable texture pack allows you to have "subtitles" to your 
 
 ### Preview:
 <details>
-  <summary>The title of the image group</summary>
+  <summary>Examples</summary>
   <img src="image-url" alt="image-description"/>
   <img src="image-url" alt="image-description"/>
   <img src="image-url" alt="image-description"/>
