@@ -6,16 +6,11 @@ This Minecraft downloadable texture pack allows you to have "subtitles" to your 
 # Description:
 This Minecraft downloadable texture pack allows you to have "subtitles" to your Minecraft logo or custom headings that replace "Minecraft" with something else. Personalize your Minecraft experience with this DLC!
 
-### Preview:
-<details>
-  <summary>Examples</summary>
-  <img src="image-url" alt="image-description"/>
-  <img src="image-url" alt="image-description"/>
-  <img src="image-url" alt="image-description"/>
-</details>
+### Example:
+![notjava](https://github.com/ArchivedCodeGITHUB/Minecraft-Subtitle-Pack/assets/152086313/718171b5-85a8-437b-8ad8-ab61a6e86f3c)
  
 ### Reviews, Suggestions, & Bug Reports 
-You can rate your experience with us from 1 to 5 stars. Have any suggestions? Feel free to share them with us here. If you have a specific issue with the pack, post them below in the comments section (it is required to have an account to comment on MCPEDL).
+Have any suggestions? Feel free to share them with us here. If you have a specific issue with the pack, post them in the issues section (it is required to have an account to post an issue on GitHub).
 
 ### Download Minecraft: Bedrock Edition:
 Available now for [*_all supported Minecraft Bedrock Edition devices_*](https://www.minecraft.net/en-us/article/java-or-bedrock-edition#:~:text=While%20the%20Java%20Edition%20is%20only%20available%20on,Android%2C%20iOS%2C%20Windows%20Mobile%20and%20Samsung%20Gear%20VR.) for *free*!
