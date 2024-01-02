@@ -11,6 +11,8 @@ Repolished existing logos
 5 new logos
 Ability to change the heading
 
+
+## Info:
 ### Unsure about the different selections?
 You can select from 5 different subtitle packs, each offering a unique style! The first option is the "New Default" pack, which features logos in the post-1.17 style. The second option is the "Default" pack, which includes subtitles in the pre-1.18 style. The third option is the "Old" pack, which features logos in the alpha/beta style (still in beta). The fourth option is the "Parody Logos" pack, and the last option is the "Custom Headings" pack. Choose the subtitle pack that best suits your preferences!
 
