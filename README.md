@@ -31,6 +31,6 @@ If for some reason the __.mcpack__ file is unable to import into your Minecraft 
 ### DLC Information:
 This texture pack is made for *Minecraft: Bedrock Edition (previously known as Pocket Edition [PE])* of Minecraft *(not to get confused with Minecraft: Java Edition)*.
 
-*Minecraft DLC Version: 1.1*
+*Minecraft DLC Version: 1.0.2*
 
 *This DLC is not affiliated with nor endorsed by Mojang or Microsoft.*
