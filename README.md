@@ -34,7 +34,8 @@ This texture pack is made for *Minecraft: Bedrock Edition (previously known as P
 
 *This DLC is not affiliated with nor endorsed by Mojang or Microsoft.*
 
-## Funky Update (1/3/2024):
+## Update Info:
+### Funky Update (1/3/2024):
 
 This update brings in a range of new logos to the game, and also improves the existing ones by giving them a fresh coat of polish and recreation. These changes have been made with the aim of providing you and other players with a more immersive and enjoyable gaming experience! Additionally, this pack now allows for the modification of headings, giving players greater control over the look and feel of their game. Get funky!
 
