@@ -52,3 +52,6 @@ This update brings in a range of new logos to the game, and also improves the ex
 * [Old Pack](https://drive.google.com/uc?export=download&id=1jX4hp9E5J2tAUDD3wNiz5Cw3_2NcuI3G)
 * [Custom Headings Pack](https://drive.google.com/uc?export=download&id=1VOymo7NA7yy5Fx5lIa5sFoNcZedhmLfn)
 * [Parody Pack](https://drive.google.com/uc?export=download&id=1fotMc9vzdvcdmKGbslRGzm0TXSlwBgJt)
+
+### Download link not working? Click the download link below:
+[**Alternative Download Link**](https://mega.nz/folder/hHdUTC5R#JvhigFYnJWbxmTCsT8uPIA)
