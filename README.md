@@ -45,3 +45,10 @@ This update brings in a range of new logos to the game, and also improves the ex
 * Over **15** new logos
 * Ability to change the heading
 * **3** brand new packs (parody, old, and custom headings)
+
+# Downloads:
+* [Default Pack](https://drive.google.com/uc?export=download&id=1DG_2R3Z115J7gzJ3QdkgFaEb8WlDXPSI)
+* [New Default Pack](https://drive.google.com/uc?export=download&id=19yEH_V3AsD7qvmzS5AU1r_yYkIq0VsA8)
+* [Old Pack](https://drive.google.com/uc?export=download&id=1jX4hp9E5J2tAUDD3wNiz5Cw3_2NcuI3G)
+* [Custom Headings Pack](https://drive.google.com/uc?export=download&id=1VOymo7NA7yy5Fx5lIa5sFoNcZedhmLfn)
+* [Parody Pack](https://drive.google.com/uc?export=download&id=1fotMc9vzdvcdmKGbslRGzm0TXSlwBgJt)
